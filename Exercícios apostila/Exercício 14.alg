@@ -1,4 +1,4 @@
-algoritmo "ganho por hora"
+algoritmo "salário com ganho por hora"
 
 var
 
