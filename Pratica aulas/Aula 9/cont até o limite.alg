@@ -9,8 +9,8 @@ inicio
 
     escreval("Até onde você deseja contar? ")
     leia(L)
-    contador <- L
-    enquanto (contador >= L) faca
+    contador <- 0
+    enquanto (contador <= L) faca
         escreval(contador)
         contador <- contador +1
     fimenquanto
