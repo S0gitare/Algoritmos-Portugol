@@ -1,4 +1,4 @@
-algoritmo "Delta"
+algoritmo "Equação do segundo grau nos 3 casos do delta"
 
 //Equações de exemplo:
 
